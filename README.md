@@ -89,7 +89,7 @@ Toggle the input switch and observe output `Z`.
 
 **From your truth table, why do you think this gate is called an inverter?**
 
-> _Write your answer here._    
+> as 0 and 1 both change depending on when either x or y are on.   
 
 ---
 
