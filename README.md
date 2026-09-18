@@ -82,14 +82,14 @@ Toggle the input switch and observe output `Z`.
 
 | X | Z |
 |---:|---:|
-| 0 | ___ |
-| 1 | ___ |
+| 0 | 1 |
+| 1 | 0 |
 
 ### Reflection
 
 **From your truth table, why do you think this gate is called an inverter?**
 
-> _Write your answer here._
+> _Write your answer here._    
 
 ---
 
